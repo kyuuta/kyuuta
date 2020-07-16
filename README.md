@@ -1,4 +1,8 @@
-### 我想要的永远在曾经 ⏳
+### 风平浪静的大海开始泛起波澜 🌊🌊
+
+<p align="center">
+  <img src="https://github.com/kyuuta/kyuuta/blob/master/yami.jpg">
+</p>
 
 <!--
 **kyuuta/kyuuta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
